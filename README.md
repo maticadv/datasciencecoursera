@@ -1,2 +1,2 @@
 # datasciencecoursera
-Creating a repo as Data Science Tool Box Project
+Creating a first repo as Data Science Tool Box Project
